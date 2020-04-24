@@ -1,0 +1,19 @@
+{
+  "name": "electron-cms",
+  "version": "1.0.0",
+  "description": "娄志军仓库的进销存桌面端管理系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brokenTeam11/electron-cms.git"
+  },
+  "author": "XiaNengQi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brokenTeam11/electron-cms/issues"
+  },
+  "homepage": "https://github.com/brokenTeam11/electron-cms#readme"
+}
